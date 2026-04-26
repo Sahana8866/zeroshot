@@ -90,7 +90,6 @@ Raw network flow features are converted to semantic tokens, creating a "language
 
 - Architecture: 2-layer Bidirectional LSTM
 - Embedding progression: 128 -> 256 -> 384 dimensions
-- Training Losses: Contrastive loss + auxiliary family classification
 - Output: 384-dimensional dense behavioral vector
 
 ### Stage 3: CNN-GRU Ensemble Detector
