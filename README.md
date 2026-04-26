@@ -3,22 +3,7 @@
 **Python 3.8+ | PyTorch 2.0+ | 91.08% F1-Score**
 
 Presented at the 3rd International Conference on Computing Systems and Intelligent Applications (ComSIA-2026)
-
----
-
-## Table of Contents
-
-1. [Problem Statement](#problem-statement)
-2. [Key Results](#key-results)
-3. [Dataset](#dataset)
-4. [Architecture](#architecture)
-5. [Technical Details](#technical-details)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [Citation](#citation)
-9. [Author](#author)
-
----
+Access the paper here : https://drive.google.com/file/d/1it22mZRUSC5E8VO1tYvwYwRLXhmVWyil/view?usp=sharing
 
 ## Problem Statement
 
@@ -164,5 +149,3 @@ Total Parameters: 4,389,898
 - Training Time: 2-4 hours on Tesla T4 GPU
 
 ---
-
-Access the paper here : https://drive.google.com/file/d/1it22mZRUSC5E8VO1tYvwYwRLXhmVWyil/view?usp=sharing
