@@ -583,4 +583,4 @@ for fam in unseen_families + ['Normal']:
         f1 = f1_score(subset['label_binary'], subset['predicted'])
         print(f"  {fam:8}: {f1:.4f}")
 
-print("\n✅ Training complete! Best model saved as 'best_model.pth'")
+print("\n Training complete! Best model saved as 'best_model.pth'")
