@@ -1,4 +1,4 @@
-# Zero-Shot Malware Detection on Encrypted Traffic
+# Zero-Shot Malware Traffic Recognition Across Encrypted Protocols
 
 **Python 3.8+ | PyTorch 2.0+ | 91.08% F1-Score**
 
@@ -164,3 +164,5 @@ Total Parameters: 4,389,898
 - Training Time: 2-4 hours on Tesla T4 GPU
 
 ---
+
+Access the paper here : https://drive.google.com/file/d/1it22mZRUSC5E8VO1tYvwYwRLXhmVWyil/view?usp=sharing
