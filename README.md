@@ -148,3 +148,16 @@ Total Parameters: 4,389,898
 - Training Time: 2-4 hours on Tesla T4 GPU
 
 ---
+## Tech Stack
+
+| Category | Technology | Version/Purpose |
+|----------|------------|-----------------|
+| Language | Python | 3.8+ |
+| Deep Learning Framework | PyTorch | 2.0+ (torch, nn, optim) |
+| Data Processing | Pandas, NumPy | Data loading, manipulation |
+| ML Utilities | Scikit-learn | Metrics, train_test_split |
+| Visualization | Matplotlib, Seaborn | Confusion matrix, ROC, PR curves |
+| Hardware | NVIDIA Tesla T4 GPU | 14.74 GB VRAM (Kaggle) |
+| Environment | Kaggle Notebook | Cloud GPU platform |
+
+---
